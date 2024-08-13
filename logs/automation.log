@@ -1,0 +1,16 @@
+2024-08-11 21:51:04 INFO  TC001_AccountRegistrationTest:14 - ****Starting TC001_AccountRegistrationTest****
+2024-08-11 21:51:04 INFO  TC001_AccountRegistrationTest:19 - Clicked on MyAccount Link
+2024-08-11 21:51:05 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-08-11 21:51:05 INFO  TC001_AccountRegistrationTest:26 - providing customer details...
+2024-08-11 21:51:06 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
+2024-08-11 21:51:06 INFO  TC001_AccountRegistrationTest:53 - ***Finish TC001-AccountRegistrationTest ****
+2024-08-11 21:51:09 INFO  TC002_LoginTest:15 - ******Starting TC002_LoginTest*****
+2024-08-11 21:51:11 INFO  TC002_LoginTest:34 - **** Finish TC002_LoginTest*****
+2024-08-11 22:17:17 INFO  TC001_AccountRegistrationTest:14 - ****Starting TC001_AccountRegistrationTest****
+2024-08-11 22:17:17 INFO  TC001_AccountRegistrationTest:19 - Clicked on MyAccount Link
+2024-08-11 22:17:17 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link
+2024-08-11 22:17:17 INFO  TC001_AccountRegistrationTest:26 - providing customer details...
+2024-08-11 22:17:19 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
+2024-08-11 22:17:19 INFO  TC001_AccountRegistrationTest:53 - ***Finish TC001-AccountRegistrationTest ****
+2024-08-11 22:17:22 INFO  TC002_LoginTest:15 - ******Starting TC002_LoginTest*****
+2024-08-11 22:17:24 INFO  TC002_LoginTest:34 - **** Finish TC002_LoginTest*****
